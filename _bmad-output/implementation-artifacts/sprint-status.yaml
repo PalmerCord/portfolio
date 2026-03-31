@@ -1,0 +1,121 @@
+# generated: 2026-03-30
+# last_updated: 2026-03-30
+# project: Portfolio
+# project_key: NOKEY
+# tracking_system: file-system
+# story_location: _bmad-output/implementation-artifacts
+
+# STATUS DEFINITIONS:
+# ==================
+# Epic Status:
+#   - backlog: Epic not yet started
+#   - in-progress: Epic actively being worked on
+#   - done: All stories in epic completed
+#
+# Story Status:
+#   - backlog: Story only exists in epic file
+#   - ready-for-dev: Story file created in stories folder
+#   - in-progress: Developer actively working on implementation
+#   - review: Ready for code review
+#   - done: Story completed
+#
+# Retrospective Status:
+#   - optional: Can be completed but not required
+#   - done: Retrospective has been completed
+
+generated: 2026-03-30
+last_updated: 2026-03-30
+project: Portfolio
+project_key: NOKEY
+tracking_system: file-system
+story_location: _bmad-output/implementation-artifacts
+
+development_status:
+  # Epic 1: Project Foundation & Setup
+  epic-1: in-progress
+  1-1-initialize-nextjs-project: done
+  1-2-setup-shadcn-ui-fonts: in-progress
+  1-3-install-animation-libraries: backlog
+  1-4-create-content-architecture: backlog
+  1-5-implement-base-layout: backlog
+  1-6-configure-development-tooling: backlog
+  epic-1-retrospective: optional
+
+  # Epic 2: Project Grid & Browsing
+  epic-2: backlog
+  2-1-create-projectcard-component: backlog
+  2-2-build-project-grid-layout: backlog
+  2-3-implement-project-filtering: backlog
+  2-4-add-statscounter-component: backlog
+  2-5-create-projects-page: backlog
+  2-6-add-skeleton-loading-states: backlog
+  epic-2-retrospective: optional
+
+  # Epic 3: Project Detail & Live Embeds
+  epic-3: backlog
+  3-1-create-liveiframeembed-component: backlog
+  3-2-build-projectdetailpanel-component: backlog
+  3-3-implement-screenshot-fallback: backlog
+  3-4-add-project-navigation: backlog
+  3-5-create-project-detail-page: backlog
+  epic-3-retrospective: optional
+
+  # Epic 4: Site Navigation & SEO
+  epic-4: backlog
+  4-1-implement-primary-navigation: backlog
+  4-2-add-page-meta-tags: backlog
+  4-3-create-sitemap-robots: backlog
+  4-4-implement-structured-data: backlog
+  4-5-add-breadcrumb-navigation: backlog
+  epic-4-retrospective: optional
+
+  # Epic 5: Theme & Accessibility
+  epic-5: backlog
+  5-1-implement-theme-toggle: backlog
+  5-2-add-reduced-motion-support: backlog
+  5-3-ensure-keyboard-navigation: backlog
+  5-4-implement-focus-management: backlog
+  5-5-add-screen-reader-support: backlog
+  5-6-create-toast-notification-system: backlog
+  epic-5-retrospective: optional
+
+  # Epic 6: Mode Switching (Personal ↔ Agency)
+  epic-6: backlog
+  6-1-create-modetoggle-component: backlog
+  6-2-implement-mode-based-branding: backlog
+  6-3-add-url-based-mode-detection: backlog
+  6-4-persist-mode-selection: backlog
+  epic-6-retrospective: optional
+
+  # Epic 7: About & Contact
+  epic-7: backlog
+  7-1-create-about-page: backlog
+  7-2-build-skills-display: backlog
+  7-3-add-social-links: backlog
+  7-4-implement-contact-form: backlog
+  7-5-embed-calendar-widget: backlog
+  7-6-add-analytics-events: backlog
+  epic-7-retrospective: optional
+
+  # Epic 8: Flyby Hero Animation
+  epic-8: backlog
+  8-1-create-flybyhero-container: backlog
+  8-2-implement-flyby-animation: backlog
+  8-3-add-skip-functionality: backlog
+  8-4-optimize-animation-performance: backlog
+  8-5-handle-returning-visitors: backlog
+  epic-8-retrospective: optional
+
+  # Epic 9: Performance & Polish
+  epic-9: backlog
+  9-1-optimize-images: backlog
+  9-2-implement-code-splitting: backlog
+  9-3-add-micro-animations: backlog
+  9-4-achieve-core-web-vitals: backlog
+  9-5-final-lighthouse-audit: backlog
+  9-6-responsive-polish: backlog
+  epic-9-retrospective: optional
+
+  # Epic 10: Admin Dashboard (Phase 2 - Deferred)
+  epic-10: backlog
+  epic-10-retrospective: optional
