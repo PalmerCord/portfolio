@@ -5,6 +5,8 @@ import { Header } from "@/components/layout/Header";
 import { siteConfig } from "@/lib/site";
 import { SkipLink } from "@/components/layout/SkipLink";
 import { cookies } from "next/headers";
+import { Analytics } from "@vercel/analytics/next";
+import { SpeedInsights } from "@vercel/speed-insights/next";
 import "./globals.css";
 
 export const metadata: Metadata = {
@@ -58,6 +60,8 @@ export default async function RootLayout({
           </main>
           <Footer />
         </AnimationProvider>
+        <Analytics />
+        <SpeedInsights />
       </body>
     </html>
   );
