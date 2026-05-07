@@ -1,0 +1,12 @@
+.next
+node_modules
+coverage
+out
+build
+package-lock.json
+_bmad
+_bmad-output
+.claude
+docs
+AGENTS.md
+CLAUDE.md

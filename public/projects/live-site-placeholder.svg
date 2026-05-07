@@ -1,0 +1,19 @@
+<svg width="1200" height="750" viewBox="0 0 1200 750" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="750" rx="36" fill="#F4F1E8"/>
+  <rect x="52" y="52" width="1096" height="646" rx="28" fill="#FFFFFF" stroke="#D8D1C4" stroke-width="8"/>
+  <rect x="52" y="52" width="1096" height="86" rx="28" fill="#1F2A22"/>
+  <circle cx="118" cy="95" r="12" fill="#F4F1E8"/>
+  <circle cx="158" cy="95" r="12" fill="#CBBFA9"/>
+  <circle cx="198" cy="95" r="12" fill="#8D9B8F"/>
+  <rect x="96" y="208" width="420" height="38" rx="19" fill="#1F2A22"/>
+  <rect x="96" y="272" width="556" height="18" rx="9" fill="#CBBFA9"/>
+  <rect x="96" y="306" width="498" height="18" rx="9" fill="#D8D1C4"/>
+  <rect x="96" y="340" width="442" height="18" rx="9" fill="#D8D1C4"/>
+  <rect x="96" y="412" width="182" height="52" rx="26" fill="#6B7D6E"/>
+  <rect x="96" y="516" width="250" height="128" rx="24" fill="#F4F1E8" stroke="#D8D1C4" stroke-width="6"/>
+  <rect x="380" y="516" width="250" height="128" rx="24" fill="#F4F1E8" stroke="#D8D1C4" stroke-width="6"/>
+  <rect x="664" y="516" width="250" height="128" rx="24" fill="#F4F1E8" stroke="#D8D1C4" stroke-width="6"/>
+  <rect x="724" y="200" width="328" height="248" rx="28" fill="#EEF3ED"/>
+  <path d="M888 258C849.34 258 818 289.34 818 328C818 366.66 849.34 398 888 398C926.66 398 958 366.66 958 328C958 289.34 926.66 258 888 258ZM888 281.33C898.32 281.33 907.89 284.55 915.76 290.04L850.04 355.76C844.55 347.89 841.33 338.32 841.33 328C841.33 302.96 862.96 281.33 888 281.33ZM888 374.67C877.68 374.67 868.11 371.45 860.24 365.96L925.96 300.24C931.45 308.11 934.67 317.68 934.67 328C934.67 353.04 913.04 374.67 888 374.67Z" fill="#6B7D6E"/>
+  <text x="96" y="170" fill="#6B7D6E" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700" letter-spacing="0.12em">LIVE SITE PLACEHOLDER</text>
+</svg>
